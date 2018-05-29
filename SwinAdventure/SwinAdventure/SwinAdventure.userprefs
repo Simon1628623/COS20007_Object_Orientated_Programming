@@ -1,0 +1,19 @@
+﻿<Properties StartupItem="SwinAdventure\SwinAdventure.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="SwinAdventure\Inventory.cs">
+    <Files>
+      <File FileName="SwinAdventure\Program.cs" Line="1" Column="1" />
+      <File FileName="SwinAdventure\Identifiable Object.cs" Line="1" Column="1" />
+      <File FileName="SwinAdventure\Identifiable Objects Unit Test.cs" Line="1" Column="1" />
+      <File FileName="SwinAdventure\GameObject.cs" Line="1" Column="1" />
+      <File FileName="SwinAdventure\Inventory.cs" Line="16" Column="4" />
+      <File FileName="SwinAdventure\Inventory Unit Test.cs" Line="1" Column="1" />
+      <File FileName="SwinAdventure\Player.cs" Line="1" Column="1" />
+      <File FileName="SwinAdventure\Item.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

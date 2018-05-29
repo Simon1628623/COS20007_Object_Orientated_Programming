@@ -1,0 +1,4 @@
+C:\Users\Simonor\Downloads\Swinburne\2015\OOP\Task1\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe
+C:\Users\Simonor\Downloads\Swinburne\2015\OOP\Task1\HelloWorld\HelloWorld\bin\Debug\HelloWorld.pdb
+C:\Users\Simonor\Downloads\Swinburne\2015\OOP\Task1\HelloWorld\HelloWorld\obj\x86\Debug\HelloWorld.exe
+C:\Users\Simonor\Downloads\Swinburne\2015\OOP\Task1\HelloWorld\HelloWorld\obj\x86\Debug\HelloWorld.pdb

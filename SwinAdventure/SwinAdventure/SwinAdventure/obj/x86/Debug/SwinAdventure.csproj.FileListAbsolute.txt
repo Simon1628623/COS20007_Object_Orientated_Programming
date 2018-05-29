@@ -1,0 +1,7 @@
+C:\Users\Simonor\Downloads\Swinburne\2015\OOP\SwinAdventure\SwinAdventure\SwinAdventure\obj\x86\Debug\SwinAdventure.csprojResolveAssemblyReference.cache
+C:\Users\Simonor\Downloads\Swinburne\2015\OOP\SwinAdventure\SwinAdventure\SwinAdventure\bin\Debug\SwinAdventure.exe
+C:\Users\Simonor\Downloads\Swinburne\2015\OOP\SwinAdventure\SwinAdventure\SwinAdventure\bin\Debug\SwinAdventure.pdb
+C:\Users\Simonor\Downloads\Swinburne\2015\OOP\SwinAdventure\SwinAdventure\SwinAdventure\bin\Debug\nunit.framework.dll
+C:\Users\Simonor\Downloads\Swinburne\2015\OOP\SwinAdventure\SwinAdventure\SwinAdventure\bin\Debug\nunit.framework.xml
+C:\Users\Simonor\Downloads\Swinburne\2015\OOP\SwinAdventure\SwinAdventure\SwinAdventure\obj\x86\Debug\SwinAdventure.exe
+C:\Users\Simonor\Downloads\Swinburne\2015\OOP\SwinAdventure\SwinAdventure\SwinAdventure\obj\x86\Debug\SwinAdventure.pdb

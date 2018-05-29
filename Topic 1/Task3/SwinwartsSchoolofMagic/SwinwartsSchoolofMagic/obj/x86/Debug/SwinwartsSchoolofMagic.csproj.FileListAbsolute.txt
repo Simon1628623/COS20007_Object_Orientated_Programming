@@ -1,0 +1,4 @@
+C:\Users\Simonor\Downloads\Swinburne\2015\OOP\Task3\SwinwartsSchoolofMagic\SwinwartsSchoolofMagic\bin\Debug\SwinwartsSchoolofMagic.exe
+C:\Users\Simonor\Downloads\Swinburne\2015\OOP\Task3\SwinwartsSchoolofMagic\SwinwartsSchoolofMagic\bin\Debug\SwinwartsSchoolofMagic.pdb
+C:\Users\Simonor\Downloads\Swinburne\2015\OOP\Task3\SwinwartsSchoolofMagic\SwinwartsSchoolofMagic\obj\x86\Debug\SwinwartsSchoolofMagic.exe
+C:\Users\Simonor\Downloads\Swinburne\2015\OOP\Task3\SwinwartsSchoolofMagic\SwinwartsSchoolofMagic\obj\x86\Debug\SwinwartsSchoolofMagic.pdb

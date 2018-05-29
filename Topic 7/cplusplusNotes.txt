@@ -1,0 +1,45 @@
+#include "Shape.h"
+
+//header you use what it knows or what it can do
+
+pointers
+
+pointer that points to int doesn't hold value but address
+creates space for 5 ints then get the address for them
+int* intPointer = new int[5];
+
+//dereference to access value inside pointer
+*intPointer[1] = 5;
+
+go to location of pointer and perform addSHape method at the position
+drawing->addSHape()
+
+//delete memory address(pointer)
+delete intPointer
+
+if you create something you need something to delete it
+
+
+
+//get
+int Shape::getX()
+{
+	return _x;
+}
+//set
+//    shape class
+void Shape::setX(int x)
+{
+	_x = x;
+}
+
+//destructor
+Shape::~methodname();
+
+
+STACK
+tasks list on what to do/reference
+
+HEAP
+memory being used
+

@@ -1,0 +1,32 @@
+﻿<Properties StartupItem="SwinwartsSchoolofMagic\SwinwartsSchoolofMagic.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="SwinwartsSchoolofMagic\TestSpell.cs">
+    <Files>
+      <File FileName="SwinwartsSchoolofMagic\Program.cs" Line="1" Column="1" />
+      <File FileName="SwinwartsSchoolofMagic\SpellKind.cs" Line="1" Column="1" />
+      <File FileName="SwinwartsSchoolofMagic\Spell.cs" Line="35" Column="25" />
+      <File FileName="SwinwartsSchoolofMagic\TestSpell.cs" Line="1" Column="1" />
+      <File FileName="SwinwartsSchoolofMagic\TestSpellBook.cs" Line="43" Column="22" />
+      <File FileName="SwinwartsSchoolofMagic\SpellBook.cs" Line="55" Column="58" />
+    </Files>
+    <Pads>
+      <Pad Id="MonoDevelop.NUnit.TestPad">
+        <State name="__root__">
+          <Node name="SwinwartsSchoolofMagic" expanded="True">
+            <Node name="SwinwartsSchoolofMagic" expanded="True">
+              <Node name="SwinwartsSchoolofMagic" expanded="True">
+                <Node name="TestSpellBook" expanded="True">
+                  <Node name="TestFetch" selected="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

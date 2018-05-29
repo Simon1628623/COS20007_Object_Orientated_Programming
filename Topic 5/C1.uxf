@@ -1,0 +1,365 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<diagram program="umlet" version="13.3">
+  <zoom_level>7</zoom_level>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>868</x>
+      <y>84</y>
+      <w>161</w>
+      <h>154</h>
+    </coordinates>
+    <panel_attributes>Polymorphism
+--
+-changing what a method 
+does in a class
+-Flexability, extensibility 
+and adaptability
+
+--
+Examples
+-- all objects will require to be drawn
+-- but a line will be drawn differently to a square</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>490</x>
+      <y>112</y>
+      <w>147</w>
+      <h>105</h>
+    </coordinates>
+    <panel_attributes>Abstraction
+--
+-Designing classes
+-Structure of a class
+-breaking a problem 
+down into parts
+
+--
+Examples
+-- UML Diagrams</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>868</x>
+      <y>385</y>
+      <w>147</w>
+      <h>126</h>
+    </coordinates>
+    <panel_attributes>Encapsulation
+--
+-What the object knows
+-What the object can do
+-Hiding certain elements from 
+outside the object 
+
+
+--
+Examples
+-- Methods/Procedures/Functions
+-- Fields/Variables</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>490</x>
+      <y>385</y>
+      <w>154</w>
+      <h>126</h>
+    </coordinates>
+    <panel_attributes>Inheritance
+--
+-What the object have in common
+-generalising code to be shared
+-general/special classes 
+
+
+--
+Examples
+-- all objects will require a position
+-- x, y and also need to be drawn</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>0</x>
+      <y>196</y>
+      <w>147</w>
+      <h>49</h>
+    </coordinates>
+    <panel_attributes>Property
+--
+way of accessing Fields 
+outside class
+</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>231</x>
+      <y>77</y>
+      <w>147</w>
+      <h>49</h>
+    </coordinates>
+    <panel_attributes>Class
+--
+template for an object</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>973</x>
+      <y>574</y>
+      <w>147</w>
+      <h>49</h>
+    </coordinates>
+    <panel_attributes>Field
+--
+variables 
+</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>735</x>
+      <y>0</y>
+      <w>147</w>
+      <h>49</h>
+    </coordinates>
+    <panel_attributes>Interface
+--
+Contains no data or code
+abstract type
+</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>798</x>
+      <y>574</y>
+      <w>147</w>
+      <h>49</h>
+    </coordinates>
+    <panel_attributes>Method
+--
+Performs actions
+</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>630</x>
+      <y>175</y>
+      <w>252</w>
+      <h>35</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;&lt;&lt;-
+planning where to use abstract methods
+to specialize </panel_attributes>
+    <additional_attributes>340.0;20.0;10.0;20.0</additional_attributes>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>637</x>
+      <y>462</y>
+      <w>245</w>
+      <h>28</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;&lt;&lt;-
+what the object can know or do from the parent</panel_attributes>
+    <additional_attributes>10.0;20.0;330.0;20.0</additional_attributes>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>525</x>
+      <y>210</y>
+      <w>140</w>
+      <h>189</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;&lt;&lt;-
+planning where
+to use inheritance
+so child and parent
+classes can share common
+methods and fields
+generalise</panel_attributes>
+    <additional_attributes>10.0;250.0;10.0;10.0</additional_attributes>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>994</x>
+      <y>231</y>
+      <w>119</w>
+      <h>168</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;&lt;&lt;-
+accessing parent class
+to change methods</panel_attributes>
+    <additional_attributes>10.0;220.0;10.0;10.0</additional_attributes>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>630</x>
+      <y>196</y>
+      <w>280</w>
+      <h>203</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;&lt;&lt;-
+planning the structure of the objects</panel_attributes>
+    <additional_attributes>380.0;270.0;10.0;10.0</additional_attributes>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>371</x>
+      <y>119</y>
+      <w>133</w>
+      <h>63</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;&lt;&lt;-
+determinging how 
+the object should 
+be structured</panel_attributes>
+    <additional_attributes>10.0;10.0;170.0;70.0</additional_attributes>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>1008</x>
+      <y>504</y>
+      <w>105</w>
+      <h>84</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;&lt;&lt;-
+what it knows</panel_attributes>
+    <additional_attributes>80.0;100.0;10.0;10.0</additional_attributes>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>889</x>
+      <y>504</y>
+      <w>84</w>
+      <h>84</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;&lt;&lt;-
+what it can do</panel_attributes>
+    <additional_attributes>10.0;100.0;20.0;10.0</additional_attributes>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>315</x>
+      <y>119</y>
+      <w>189</w>
+      <h>308</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;&lt;&lt;-
+ Inheriting from</panel_attributes>
+    <additional_attributes>10.0;10.0;250.0;420.0</additional_attributes>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>7</x>
+      <y>126</y>
+      <w>147</w>
+      <h>49</h>
+    </coordinates>
+    <panel_attributes>Method
+--
+Performs actions
+</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>7</x>
+      <y>42</y>
+      <w>147</w>
+      <h>49</h>
+    </coordinates>
+    <panel_attributes>Field
+--
+variables 
+</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>140</x>
+      <y>119</y>
+      <w>133</w>
+      <h>112</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;&lt;&lt;-
+contains</panel_attributes>
+    <additional_attributes>10.0;140.0;170.0;10.0</additional_attributes>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>147</x>
+      <y>105</y>
+      <w>98</w>
+      <h>70</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;&lt;&lt;-
+contains</panel_attributes>
+    <additional_attributes>10.0;80.0;120.0;10.0</additional_attributes>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>147</x>
+      <y>63</y>
+      <w>98</w>
+      <h>35</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;&lt;&lt;-
+contains</panel_attributes>
+    <additional_attributes>10.0;10.0;120.0;30.0</additional_attributes>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>875</x>
+      <y>28</y>
+      <w>119</w>
+      <h>70</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;&lt;&lt;-
+used for polymorphism</panel_attributes>
+    <additional_attributes>10.0;10.0;10.0;80.0</additional_attributes>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>637</x>
+      <y>231</y>
+      <w>287</w>
+      <h>210</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;&lt;&lt;-
+what methods can the child class access
+and what needs to filled out by the child class</panel_attributes>
+    <additional_attributes>390.0;10.0;290.0;140.0;80.0;280.0;10.0;240.0</additional_attributes>
+  </element>
+</diagram>

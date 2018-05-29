@@ -1,0 +1,24 @@
+﻿<Properties StartupItem="Robot\Robot.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Robot\Program.cs">
+    <Files>
+      <File FileName="Robot\Program.cs" Line="41" Column="4" />
+      <File FileName="Robot\Robot.cs" Line="39" Column="5" />
+      <File FileName="Robot\Gadget.cs" Line="13" Column="22" />
+      <File FileName="Robot\Laser.cs" Line="13" Column="4" />
+      <File FileName="Robot\Sonar.cs" Line="9" Column="4" />
+      <File FileName="Robot\RobotTest.cs" Line="79" Column="5" />
+    </Files>
+    <Pads>
+      <Pad Id="MonoDevelop.NUnit.TestPad">
+        <State name="__root__">
+          <Node name="Robot" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
